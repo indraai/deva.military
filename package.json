@@ -1,0 +1,141 @@
+{
+  "id": "14491445251698762242",
+  "name": "@indra.ai/deva.military",
+  "version": "0.0.0",
+  "license": "VLA:14491445251698762242 LICENSE.md",
+  "VLA": {
+    "uid": "14491445251698762242",
+    "time": 1760553973858,
+    "date": "Wednesday, October 15, 2025 - 11:46:13 AM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
+    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
+    "machine": "9kE+3vEhtnrqpuI5hBXTVDfdRdUbYGJreyNc3QhbsMQ=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "JCrCQnl3uwW8PE70qBL9FQ==",
+    "sha256": "8MJuBrfCtTnizPK+Jaj//6nfJlNEYxr9p1si6+CeTJg=",
+    "sha512": "hXDVnwAj8QxHoxoriyB0253rtlFtUdmL9hCsFROLoiQZsB2h/52GJUd5o/uAzv+DoX9d16e2XpRF/fq3XGoOgA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Military Deva manages Military Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.military.git"
+  },
+  "keywords": [
+    "Military",
+    "Deva",
+    "Military Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.military/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.12.0"
+  },
+  "data": {
+    "agent": {
+      "id": "64674323896098803869",
+      "key": "military",
+      "prompt": {
+        "emoji": "🪖",
+        "text": "#military",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "64468065773231949375",
+        "name": "Military Deva",
+        "hashtag": "#Military",
+        "trigger": "@Military",
+        "title": "The Military Deva",
+        "subtitle": "Showing Military Deva Features",
+        "describe": "Military Deva is a prototype model managing the Indra.ai Military Framework that is not yet offocially supported or sanctioned by the U.S. Military. But is a Prototype Model intended to show lawful non-weaponized features the Indra.ai Military Framwork could provide the United States in defending and supporting Constitution of the United States of America🤝🫡🇺🇸🪖.",
+        "tweet": "Military Deva is manages the the Deva Core Military Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,MilitaryeDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Military Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.military",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/military/emoji.png",
+        "avatar": "/devas/military/avatar.png",
+        "image": "/devas/military/image.png",
+        "background": "/devas/military/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Wednesday, October 15, 2025 - 10:14:01 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Military Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
