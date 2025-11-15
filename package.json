@@ -60,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.20.5"
+    "@indra.ai/deva": "^1.22.1"
   },
   "data": {
     "agent": {
@@ -71,14 +71,14 @@
         "text": "#military",
         "colors": {
           "label": {
-            "R": 200,
-            "G": 172,
-            "B": 87
+            "R": 90,
+            "G": 180,
+            "B": 105
           },
           "text": {
-            "R": 230,
-            "G": 225,
-            "B": 195
+            "R": 135,
+            "G": 180,
+            "B": 90
           }
         }
       },
@@ -107,6 +107,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "⚠️ For the wickedness of evil-minded thieves, who secretly prowl over this earth, cannot be restrained except by punishment. Therefore assembly-houses, brothels, casinos, taverns, victualler's shops, cross-roads, festive assemblies, play-houses, concert-rooms, old gardens, forests, the shops of artisans, empty dwellings, natural/artificial groves, and places where gambling/betting take place. These and the like places shall to be guarded by companies of soldiers, both stationary and patrolling, and by spies, in order to keep away thieves.",
         "created": "Wednesday, October 15, 2025 - 10:14:01 AM"
       }
     },
