@@ -38,6 +38,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -53,14 +54,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.military/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -91,7 +94,7 @@
         "subtitle": "Showing Military Deva Features",
         "describe": "Military Deva is a prototype model managing the Indra.ai Military Framework that is not yet offocially supported or sanctioned by the U.S. Military. But is a Prototype Model intended to show lawful non-weaponized features the Indra.ai Military Framwork could provide the United States in defending and supporting Constitution of the United States of America🤝🫡🇺🇸🪖.",
         "tweet": "Military Deva is manages the the Deva Core Military Frameowrk.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,MilitaryeDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Military #MilitaryDeva #MilitaryPRIME  #FederalIntercept #NOIWON.system",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Military Report Expert",
@@ -106,9 +109,11 @@
         "background": "/devas/military/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "⚠️ For the wickedness of evil-minded thieves, who secretly prowl over this earth, cannot be restrained except by punishment. Therefore assembly-houses, brothels, casinos, taverns, victualler's shops, cross-roads, festive assemblies, play-houses, concert-rooms, old gardens, forests, the shops of artisans, empty dwellings, natural/artificial groves, and places where gambling/betting take place. These and the like places shall to be guarded by companies of soldiers, both stationary and patrolling, and by spies, in order to keep away thieves.",
-        "created": "Wednesday, October 15, 2025 - 10:14:01 AM"
+        "salute": "🤝🫡🪖🕉️🇺🇸",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares WHAT not YET been GAINED, let him SEEK to GAIN by his MILITARY. WHAT he has GAINED let him PROTECT by CAREFUL ATTENTION. WHAT he has PROTECTED let him AUGMENT by VARIOUS MODES of INCREASING IT. WHAT he has AUGMENTED, let him LIBERALLY BESTOW on WORTHY MEN. Let him be EVER READY to STRIKE. His PROWESS CONSTANTLY DISPLAYED, and his SECRETS CONSTANTLY CONCEALED. Let him CONSTANTLY EXPLORE the WEAKNESSES of his FOE.",
+        "created": "Wednesday, October 15, 2025 - 10:14:01 AM",
+        "updated": "Tuesday, March 31, 2026 - 2:29:13 PM"
       }
     },
     "vars": {
@@ -116,7 +121,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ Military Deva Ready",
+        "ready": "🪖 Military Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
